@@ -20,7 +20,7 @@
 //        It does not matter what you leave beyond the returned k (hence they are underscores).
 //
 
-package Top_Interview_Questions.Array;
+package Top_DSA_Interview_Questions.Array;
 
 public class Remove_Duplicate_From_Sorted_array {
     public static void removeDuplicates(int[] nums) {

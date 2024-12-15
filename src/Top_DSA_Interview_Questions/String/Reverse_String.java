@@ -1,4 +1,4 @@
-package Top_Interview_Questions.String;
+package Top_DSA_Interview_Questions.String;
 
 //  Write a function that reverses a string. The input string is given as an array of characters s.
 //
