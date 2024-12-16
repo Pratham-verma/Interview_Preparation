@@ -37,7 +37,7 @@ This repository covers everything you need to prepare for technical and non tech
 
 1. **Fork and Clone** the repository:
    ```bash
-   git clone https://github.com/Pratham-verma/Interview-Preparation.git
+   git clone https://github.com/Pratham-verma/Interview_Preparation.git
    ```
 2. Explore the folders for topic-specific content.
 3. Start practicing and revising daily.
