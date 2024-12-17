@@ -21,7 +21,7 @@ package Top_DSA_Interview_Questions.Array;
 //   Output: 0
 //   Explanation: In this case, no transactions are done and the max profit = 0.
 
-public class Best_Time_to_Buy_and_Sell_Stock {
+public class Best_Time_to_Buy_and_Sell_Stock_Part_1 {
     public static void maxProfit(int[] prices) {
         // prices = [7,1,5,3,6,4] --> prices[0] is the price of the stock.
         // days start form the price[1]
