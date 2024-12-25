@@ -1,5 +1,7 @@
 package Top_DSA_Interview_Questions.Array;
 
+import java.util.*;
+
 public class Valid_Sudoku {
     public boolean isvalidSudoku(char[][] board){
             Set<String> seen = new HashSet<>();
