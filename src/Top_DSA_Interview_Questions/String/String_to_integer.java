@@ -1,6 +1,6 @@
 package Top_DSA_Interview_Questions.String;
 
-Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.
+// Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.
 
 //        The algorithm for myAtoi(string s) is as follows:
 //
@@ -44,7 +44,7 @@ Implement the myAtoi(string s) function, which converts a string to a 32-bit sig
 //        Step 3: "   -042" ("042" is read in, leading zeros ignored in the result)
 //        ^
 //
-
+import  java.util.*;
 public class String_to_integer {
      public static int myAtoi(String s){
           int int_max = 2147483647;
@@ -65,7 +65,7 @@ public class String_to_integer {
           }
 
           // convert digits to integer
-          while (i < n && Character.isdigit(s.charAt(i))){
+          while (i < n && Character.isDigit(s.charAt(i))){
                int digit = s.charAt(i) - '0';
 
                //check for overflow
